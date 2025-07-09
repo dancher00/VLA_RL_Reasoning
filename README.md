@@ -40,5 +40,6 @@ The goal of the project is to create hardly detected adversarial attacks for tim
 | checkpoints| folders for saving weights of the models |
 | config | folder contains config files with params of models and paths |
 | data | folder contains datasets |
-| notebooks | folder with notebooks for data visualisation and small experiments|
-| src | folder with code|
+| notebooks | folder with notebooks for data visualisation and small experiments |
+| src | folder with code |
+| tools | folder with usefull tools for datasets conversion |
