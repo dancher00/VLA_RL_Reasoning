@@ -17,6 +17,50 @@ The goal of this project is to , developed as part of AIRI 2025 research initiat
 ## 🚀 Quick Start
 
 ```bash
+# Create conda environment
+conda create --name vlarlr python=3.10
+conda activate vlarlr
+```
+
+```bash
+# Clone the repository
+git clone https://github.com/dancher00/VLA_RL_Reasoning
+cd VLA_RL_Reasoning
+```
+
+# Install dependencies
+pip install -r requirements.txt
+
+git 
+
+# Run the main analysis
+jupyter notebook Final\ Results/IPYNB.ipynb
+
+
+# Run the train script
+```bash
+python3 lerobot/scripts/train.py \
+  --output_dir=./outputs/train/train29 \
+  --policy.path=lerobot/pi0 \
+  --dataset.root=/home/user10_1/lerobot/src/dataset29 \
+  --dataset.repo_id=dancher00/maniskill-panda-pickcube \
+  --policy.repo_id=dancher00/pi0-panda-pickcube29 \
+  --wandb.enable=true \
+  --wandb.project=pi0_training29 \
+  --optimizer.type=adamw \
+  --optimizer.lr=2.5e-05 \
+  --optimizer.weight_decay=1e-10 \
+  --save_freq=100
+```
+
+
+
+## 🚀 Dataset converter 
+
+
+
+
+```bash
 # Clone the repository
 git clone <repository-url>
 cd VLA_RL_Reasoning
