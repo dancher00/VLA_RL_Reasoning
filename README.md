@@ -8,6 +8,12 @@
 
 ---
 
+---
+
+**Report is available [here](https://www.overleaf.com/read/fvbnfvhqvfxb#345093)**
+
+---
+
 ## Findings
 
 We closed issue in ManiSkill repo
@@ -43,3 +49,7 @@ The goal of the project is to create hardly detected adversarial attacks for tim
 | notebooks | folder with notebooks for data visualisation and small experiments |
 | src | folder with code |
 | tools | folder with usefull tools for datasets conversion |
+
+
+## Contributors
+Vakhitov Rodion, Belov Danil, Ivanov Leonid, Kachaev Nikita
