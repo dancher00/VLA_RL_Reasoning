@@ -104,6 +104,6 @@ jupyter notebook Final\ Results/IPYNB.ipynb
 
 **🎉 AIRI 2025 Research Project 🎉**
 
-*Advancing the frontiers of adversarial machine learning*
+*Advancing the frontiers of AGI*
 
 </div>
