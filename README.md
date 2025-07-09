@@ -31,7 +31,8 @@ cd VLA_RL_Reasoning
 # Install dependencies
 pip install -r requirements.txt
 
-git 
+# Install lerobot
+https://github.com/huggingface/lerobot
 
 # Run the main analysis
 jupyter notebook Final\ Results/IPYNB.ipynb
