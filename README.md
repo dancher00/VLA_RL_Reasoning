@@ -6,7 +6,7 @@
 
 ## 🎯 Description
 
-The goal of this project is to create hardly detected adversarial attacks for time-series models, developed as part of AIRI 2025 research initiative.
+The goal of this project is to , developed as part of AIRI 2025 research initiative.
 
 ## 🏆 Key Results
 
