@@ -29,13 +29,13 @@ cd VLA_RL_Reasoning
 ```
 ...and then enjoy our notebooks!
 
-## 🚀 Train 
+# 🚀 Train 
 
-# Install lerobot
+## Install lerobot
 https://github.com/huggingface/lerobot
 
 
-# Run the train script
+## Run the train script
 ```bash
 python3 lerobot/scripts/train.py \
   --output_dir=./outputs/train/train29 \
