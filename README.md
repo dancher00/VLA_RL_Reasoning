@@ -77,13 +77,9 @@ jupyter notebook Final\ Results/IPYNB.ipynb
 
 | 📂 File/Folder | 📝 Content |
 |----------------|-------------|
-| `checkpoints/` | 💾 Model weights and saved checkpoints |
-| `config/` | ⚙️ Configuration files with model parameters and paths |
 | `data/` | 📊 Training and testing datasets |
-| `notebooks/` | 📈 Data visualization and experimental notebooks |
 | `src/` | 💻 Core source code and implementations |
 | `tools/` | 🔧 Utilities for dataset conversion and preprocessing |
-| `Final Results/` | 🎯 Main results and analysis notebook |
 
 ## 🔗 Resources
 
