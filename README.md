@@ -11,7 +11,7 @@ The goal of this project is to , developed as part of AIRI 2025 research initiat
 ## 🏆 Key Results
 
 ✅ **Closed issue in ManiSkill repository**  
-📊 **Results**: Located in `/Final Results` folder, accessible via `IPYNB.ipynb`  
+📊 **Implementation**: Located in `/src` folder, accessible via `*.ipynb notebooks`  
 🤗 **Models & Datasets**: Available on [HuggingFace](https://huggingface.co/dancher00)
 
 ## 🚀 Quick Start
@@ -27,15 +27,12 @@ conda activate vlarlr
 git clone https://github.com/dancher00/VLA_RL_Reasoning
 cd VLA_RL_Reasoning
 ```
+...and then enjoy our notebooks!
 
-# Install dependencies
-pip install -r requirements.txt
+## 🚀 Train 
 
 # Install lerobot
 https://github.com/huggingface/lerobot
-
-# Run the main analysis
-jupyter notebook Final\ Results/IPYNB.ipynb
 
 
 # Run the train script
@@ -52,25 +49,6 @@ python3 lerobot/scripts/train.py \
   --optimizer.lr=2.5e-05 \
   --optimizer.weight_decay=1e-10 \
   --save_freq=100
-```
-
-
-
-## 🚀 Dataset converter 
-
-
-
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd VLA_RL_Reasoning
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the main analysis
-jupyter notebook Final\ Results/IPYNB.ipynb
 ```
 
 ## 📁 Project Structure
