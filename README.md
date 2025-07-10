@@ -38,13 +38,13 @@ https://github.com/huggingface/lerobot
 ## Run the train script
 ```bash
 python3 lerobot/scripts/train.py \
-  --output_dir=./outputs/train/train29 \
+  --output_dir=./outputs/train \
   --policy.path=lerobot/pi0 \
-  --dataset.root=/home/user10_1/lerobot/src/dataset29 \
+  --dataset.root=/path \
   --dataset.repo_id=dancher00/maniskill-panda-pickcube \
-  --policy.repo_id=dancher00/pi0-panda-pickcube29 \
+  --policy.repo_id=name \
   --wandb.enable=true \
-  --wandb.project=pi0_training29 \
+  --wandb.project=project \
   --optimizer.type=adamw \
   --optimizer.lr=2.5e-05 \
   --optimizer.weight_decay=1e-10 \
