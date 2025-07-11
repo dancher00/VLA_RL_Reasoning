@@ -4,9 +4,7 @@
 [![Report](https://img.shields.io/badge/📄_Report-Overleaf-green)](https://www.overleaf.com/read/fvbnfvhqvfxb#345093)
 [![Models](https://img.shields.io/badge/🤗_Models-HuggingFace-yellow)](https://huggingface.co/dancher00)
 
-## 🎯 Description
-
-The goal of this project is to , developed as part of AIRI 2025 research initiative.
+## 🎯 Developed as part of DL Summer School 2025 research initiative.
 
 ## 🏆 Key Results
 
