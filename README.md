@@ -68,7 +68,7 @@ python3 lerobot/scripts/train.py \
 - 👨‍💻 **Vakhitov Rodion**
 - 👨‍💻 **Belov Danil** 
 - 👨‍💻 **Ivanov Leonid**
-- 👨‍💻 **Kachaev Nikita**
+- 👨🏼‍🏫 **Kachaev Nikita (Mentor)**
 
 ---
 
